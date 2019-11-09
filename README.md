@@ -11,7 +11,7 @@ Neighborhood is an application that allows users to be in the loop about everyth
 1. Python3.6
 2. Virtualenv
 3. Django 
-4. HTML
+4. HTML 
 5. Bootsrap & CSS
 6. Git Version Control
 7. Heruko
