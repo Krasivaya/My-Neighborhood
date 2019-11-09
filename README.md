@@ -1,10 +1,10 @@
-# Instagram PH2
+# Neighborhood
 
 ### Developed By
 [Carine I. SEMWAGA](https://github.com/Krasivaya)
 
 ### Description
-This is a Django website that allows a user upload pictures and other users can like, comment on them. As well as they can be able to follow each other and see their followers pictures on their timeline, even they can view posts from their profile alongside with the number of followers and followings they have.
+Neighborhood is an application that allows users to be in the loop about everything happening in their neighborhood. From contact information of different handyman to meeting announcements or even alerts.
 
 ### Technologies Used
 
@@ -19,8 +19,8 @@ This is a Django website that allows a user upload pictures and other users can 
 ### Setup/Installation Requirements
 
 * Open your terminal
-* initialize github, git clone ` https://github.com/Krasivaya/Instagram-PH2.git `
-* cd Instagram-PH2
+* initialize github, git clone ` https://github.com/Krasivaya/Neighborhood.git `
+* cd Neighborhood
 * open folder in prefered IDE
 * open terminal
 * Install virtualenv `python3.6 -m venv --without-pip virtual`
@@ -36,22 +36,8 @@ No bug known. If you found any, please contact!
 ### Contacts
 Email: semwagacarine@gmail.com
 
-### Live site - Preview
-                    Newsfeed page / Homepage
-![s3](https://user-images.githubusercontent.com/51264308/67236880-6aea2d80-f44a-11e9-94de-95e7a931f3cc.png)
-
-                        Profile page
-![s2](https://user-images.githubusercontent.com/51264308/67236901-74739580-f44a-11e9-8797-090cb976bf69.png)
-
-                    Login Using Github Account
-![s5](https://user-images.githubusercontent.com/51264308/67374536-9459a500-f581-11e9-8d40-1ccf631642a3.png)
-
-
-
-
-
 ### Live site
-Livesite is not ready yet - [Instagram PH2](https://krasivaya-instagram.herokuapp.com/)
+[Neighborhood](https://krasivaya-neighborhood.herokuapp.com/)
 
 ### License
 This project is under the [MIT](https://github.com/Krasivaya/github/blob/master/LICENSE) license.
