@@ -6,3 +6,4 @@ class NeighborhoodConfig(AppConfig):
     
     def ready(self):
         import neighborhood.signals
+ 
